@@ -1,1 +1,2 @@
 testing the difference betweeen git merge and git rebase
+modified
